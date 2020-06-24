@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="br">
+  <head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" type="text/css" href="edj.css" media="screen" />
+    <title>DJ ED</title>
+    <h1> DEJAI EDINHO </h1>
+  </head>
+  <body>
+    <div class="social">
+      Facebook <br/>
+      Instagram<br/>
+      Twitter <br/>
+    </div>
+  </body>
+    <div class="pe">
+      Experiencia a música
+    </div>
+</html>
